@@ -22,7 +22,7 @@ Estou a procura do meu primeiro emprego na area de tecnologia e com muita empolg
 
 ## Github Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasrfreir&show_icons=true&theme=radical)
 
 ## Minhas contribuições
 
