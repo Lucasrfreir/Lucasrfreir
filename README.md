@@ -1,6 +1,6 @@
 # Lucas Rocha Freire
 
-Atualmente sou estudante de analise e desenvolvimento de sistemas no meu 3° periodo, faltando apenas dois semestres para concluir meu tecnologo.
+Atualmente sou estudante de analise e desenvolvimento de sistemas no meu 4º periodo, faltando apenas um semestres para concluir meu tecnologo.
 
 Estou a procura do meu primeiro emprego na area de tecnologia e com muita empolgação para começar a desenvolver meus talentos em uma empresa! 
 
