@@ -1,14 +1,15 @@
 # Lucas Rocha Freire
 
-Atualmente sou estudante de analise e desenvolvimento de sistemas no meu 4º periodo, faltando apenas um semestres para concluir meu tecnologo.
+Atualmente sou estudante de analise e desenvolvimento de sistemas no meu 5º e último semestres para concluir meu tecnologo.
 
 Estou a procura do meu primeiro emprego na area de tecnologia e com muita empolgação para começar a desenvolver meus talentos em uma empresa! 
 
 ## Conecte-se comigo
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://meu-portfolio-mauve-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-freire-a91648168)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas.freire__)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucasrfreir)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas.freire__)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucasjr2500@gmail.com)
 
 ## Habilidades
@@ -17,6 +18,7 @@ Estou a procura do meu primeiro emprego na area de tecnologia e com muita empolg
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucasrfreir)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
